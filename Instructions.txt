@@ -1,0 +1,5 @@
+You have been placed in pairs but you can choose to split the work however you feel is best
+1) Create a builder for the Company and Employee classes.
+2) Implement the unit tests in BuilderPatternTests so they use the builders you have created.
+3) Add a Builders file and create the static A and An classes to improve the fluid syntax of your builders in the tests.
+4) Optional - Add the implicit operators to the Company and Employee Builder classes and refactor your unit tests to make use of these.
